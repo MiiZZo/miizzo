@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Nikita Svoyachenko. <sup>(or MiiZZo)</sup>
 
 ### ⚡ A few facts about me
  - I'm a frontender. 👨‍💼
