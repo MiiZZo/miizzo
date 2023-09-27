@@ -6,5 +6,5 @@
  - I focused on developing complex and scalable web applications with good architecture.
 <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats.liuli.lol/api?username=miizzo&theme=react-dark&show_icons=true&include_all_commits=true&count_private=true">
-   <img alt="Shows Nikita Svoyachenko's GitHub Stats." align="right" width="480px" src="https://github-stats.liuli.lol/api?username=miizzo&theme=react-dark&show_icons=true&include_all_commits=true&count_private=true">
+   <img alt="Shows Nikita Svoyachenko's GitHub Stats." width="480px" src="https://github-stats.liuli.lol/api?username=miizzo&theme=react-dark&show_icons=true&include_all_commits=true&count_private=true">
  </picture>
